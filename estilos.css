@@ -5,3 +5,4 @@
             height: 100vh;           /* Establece la altura para cubrir toda la pantalla */
             text-align: center;      /* Alinea el texto dentro de los elementos */
             flex-direction: column;
+body{background-color:yellow};
