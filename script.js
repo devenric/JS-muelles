@@ -7,6 +7,6 @@ const resultado = document.createElement('p');
             else { resultado.textContent = `cojo ${i} muelles, los tiro por el retrete, ya son ${i} muelles que el retrete se ha tragado`;
     }
 document.getElementById('resultados').appendChild(resultado);
-},i * 3500);
+},i * 2500);
 
 }
