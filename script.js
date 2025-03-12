@@ -1,4 +1,4 @@
-for (let i=1; i<4; i++){
+for (let i=1; i<10; i++){
 setTimeout(function(){
 const resultado = document.createElement('p');
     if (i===1){
